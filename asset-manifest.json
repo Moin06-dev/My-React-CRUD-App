@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My-React-CRUD-App/static/css/main.9345b6e2.css",
+    "main.js": "/My-React-CRUD-App/static/js/main.5ec76b50.js",
+    "index.html": "/My-React-CRUD-App/index.html",
+    "main.9345b6e2.css.map": "/My-React-CRUD-App/static/css/main.9345b6e2.css.map",
+    "main.5ec76b50.js.map": "/My-React-CRUD-App/static/js/main.5ec76b50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9345b6e2.css",
+    "static/js/main.5ec76b50.js"
+  ]
+}
